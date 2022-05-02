@@ -2,4 +2,12 @@ test de charles
 
 malie
 
+<<<<<<< HEAD
 malie on n'a pas faite de pull
+=======
+
+bla bla bla  test encor !!! 
+>>>>>>> 4b73e060cc7f15f1a1e4dc810df793d3351fefd8
+
+
+malie test
